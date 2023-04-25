@@ -18,7 +18,7 @@ eat food and grow longer while avoiding collisions with walls and its own body.
 
 # How to Run:
      Clone or download the project from the GitHub repository: 
-        https://github.com/Ayush3R/snake-game-python
+        https://github.com/Ayush3R/Snake-Game-Python
      Navigate to the project directory in your terminal or console.
      Run the game.py file using the python command: python game.py.
      Use the arrow keys (up, down, left, right) to control the snake.
